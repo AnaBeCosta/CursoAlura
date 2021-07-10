@@ -1,0 +1,51 @@
+body{
+  background-color:rgb(150, 130, 130);
+  font-family: 'Abel';
+
+}
+
+
+section{
+  -webkit-box-shadow: 12px 14px 26px -3px rgba(255,255,255,0.71); 
+box-shadow: 12px 14px 26px -3px rgba(255,255,255,0.71);
+  box-shadow: 12px 14px 26px -3px rgba(0,0,0,0.71);
+  display: black;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 500px;
+  margin-top : 100px;
+  background-color: white;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+section h1{
+  front-sezi: 25px;
+}
+
+header{
+   background-image: url('https://i2.wp.com/files.123freevectors.com/wp-content/original/131249-dark-grey-low-poly-abstract-background-design-vector.jpg?w=800&q=95');
+  background-size: cover;
+  height : 80px;
+  
+}
+
+div {
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #cccccc;
+  margin: 15px;
+  border: 1px solid black;
+}
+
+img{
+  width: 150px;
+  height 150px;
+  border-radius: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  transform:translateY(-50%);
+  border: 8px solid white;
+}
